@@ -1,0 +1,16 @@
+{"username": null, "timestamp": null, "message": "76 second mic max for boring people.", "rect": {"left": -2206, "top": -6, "right": -1667, "bottom": 11}}
+{"username": null, "timestamp": null, "message": "netripper", "rect": {"left": -2348, "top": 112, "right": -2289, "bottom": 130}}
+{"username": null, "timestamp": null, "message": "zepp999", "rect": {"left": -2348, "top": 194, "right": -2289, "bottom": 212}}
+{"username": null, "timestamp": null, "message": "BASIC MEMBER", "rect": {"left": -1689, "top": 196, "right": -1597, "bottom": 211}}
+{"username": null, "timestamp": null, "message": "Online", "rect": {"left": -1755, "top": 197, "right": -1717, "bottom": 213}}
+{"username": null, "timestamp": null, "message": "cardocdan", "rect": {"left": -2348, "top": 284, "right": -2279, "bottom": 302}}
+{"username": null, "timestamp": null, "message": "elimenno", "rect": {"left": -2348, "top": 340, "right": -2287, "bottom": 358}}
+{"username": null, "timestamp": null, "message": "netripper", "rect": {"left": -2348, "top": 430, "right": -2289, "bottom": 448}}
+{"username": null, "timestamp": null, "message": "jeffrey_sanford", "rect": {"left": -2211, "top": 455, "right": -1667, "bottom": 490}}
+{"username": null, "timestamp": null, "message": "jeffrey_sanford", "rect": {"left": -2211, "top": 455, "right": -2022, "bottom": 489}}
+{"username": null, "timestamp": null, "message": "sharticus", "rect": {"left": -2348, "top": 486, "right": -2286, "bottom": 504}}
+{"username": null, "timestamp": null, "message": "M", "rect": {"left": -2211, "top": 496, "right": -2198, "bottom": 513}}
+{"username": null, "timestamp": null, "message": "57", "rect": {"left": -2188, "top": 496, "right": -2171, "bottom": 513}}
+{"username": null, "timestamp": null, "message": "DENVER, COLORADO, US", "rect": {"left": -2161, "top": 496, "right": -2004, "bottom": 513}}
+{"username": null, "timestamp": null, "message": "Member since", "rect": {"left": -2211, "top": 522, "right": -2109, "bottom": 541}}
+{"username": null, "timestamp": null, "message": "January 2005", "rect": {"left": -2106, "top": 522, "right": -2008, "bottom": 541}}

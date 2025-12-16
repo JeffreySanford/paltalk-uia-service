@@ -159,17 +159,17 @@ def send_message(title_substr: str, message: str, activate: bool = True) -> Dict
     if edits:
         target = edits[-1]
         try:
-            ctrl = target.wrapper_object()
+            # UIAWrapper already supports type_keys and set_edit_text
             try:
-                ctrl.set_edit_text(message)
+                target.set_edit_text(message)
             except Exception:
                 try:
-                    ctrl.type_keys(message, with_spaces=True)
+                    target.type_keys(message, with_spaces=True)
                 except Exception:
                     pass
             # Send Enter
             try:
-                ctrl.type_keys('{ENTER}')
+                target.type_keys('{ENTER}')
             except Exception:
                 send_keys('{ENTER}')
             return {"ok": True, "method": "control"}

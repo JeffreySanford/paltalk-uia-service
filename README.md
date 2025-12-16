@@ -31,3 +31,6 @@ Notes
 -----
 - This is an experimental PoC; production needs hardened error handling, logging, and more robust fallbacks.
 - The service must run on Windows because UIA needs native access to window controls.
+- OCR fallback: If the mic queue is rendered inside a web view and UIA cannot read it, `getMicQueue` will automatically attempt an OCR fallback using `pytesseract`.
+   - To enable OCR: `pip install pytesseract pillow` and install the Tesseract binary for your platform (ensure `tesseract` is on PATH).
+   - OCR is optional and only used when UIA returns no readable entries.

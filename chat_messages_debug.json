@@ -1,0 +1,236 @@
+[
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2420,
+      "top": 85,
+      "right": -1596,
+      "bottom": 133
+    },
+    "class_name": "ui::chatlog::TextMessageWidget",
+    "control_type": "Group"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2348,
+      "top": 110,
+      "right": -1612,
+      "bottom": 130
+    },
+    "class_name": "QTextBrowser",
+    "control_type": "Text"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2420,
+      "top": 141,
+      "right": -1596,
+      "bottom": 189
+    },
+    "class_name": "ui::chatlog::TextMessageWidget",
+    "control_type": "Group"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2348,
+      "top": 166,
+      "right": -1612,
+      "bottom": 186
+    },
+    "class_name": "QTextBrowser",
+    "control_type": "Text"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2420,
+      "top": 197,
+      "right": -1596,
+      "bottom": 245
+    },
+    "class_name": "ui::chatlog::TextMessageWidget",
+    "control_type": "Group"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2348,
+      "top": 222,
+      "right": -1612,
+      "bottom": 242
+    },
+    "class_name": "QTextBrowser",
+    "control_type": "Text"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2420,
+      "top": 253,
+      "right": -1596,
+      "bottom": 301
+    },
+    "class_name": "ui::chatlog::TextMessageWidget",
+    "control_type": "Group"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2348,
+      "top": 278,
+      "right": -1612,
+      "bottom": 298
+    },
+    "class_name": "QTextBrowser",
+    "control_type": "Text"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2420,
+      "top": 301,
+      "right": -1596,
+      "bottom": 327
+    },
+    "class_name": "ui::chatlog::TextMessageWidget",
+    "control_type": "Group"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2348,
+      "top": 304,
+      "right": -1612,
+      "bottom": 324
+    },
+    "class_name": "QTextBrowser",
+    "control_type": "Text"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2420,
+      "top": 335,
+      "right": -1596,
+      "bottom": 383
+    },
+    "class_name": "ui::chatlog::TextMessageWidget",
+    "control_type": "Group"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2348,
+      "top": 360,
+      "right": -1612,
+      "bottom": 380
+    },
+    "class_name": "QTextBrowser",
+    "control_type": "Text"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2420,
+      "top": 391,
+      "right": -1596,
+      "bottom": 439
+    },
+    "class_name": "ui::chatlog::TextMessageWidget",
+    "control_type": "Group"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2348,
+      "top": 416,
+      "right": -1612,
+      "bottom": 436
+    },
+    "class_name": "QTextBrowser",
+    "control_type": "Text"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2378,
+      "top": 450,
+      "right": -2106,
+      "bottom": 470
+    },
+    "class_name": "QTextBrowser",
+    "control_type": "Text"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2420,
+      "top": 481,
+      "right": -1596,
+      "bottom": 529
+    },
+    "class_name": "ui::chatlog::TextMessageWidget",
+    "control_type": "Group"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2348,
+      "top": 506,
+      "right": -1612,
+      "bottom": 526
+    },
+    "class_name": "QTextBrowser",
+    "control_type": "Text"
+  },
+  {
+    "username": null,
+    "timestamp": null,
+    "message": "",
+    "rect": {
+      "left": -2420,
+      "top": 537,
+      "right": -1596,
+      "bottom": 585
+    },
+    "class_name": "ui::chatlog::TextMessageWidget",
+    "control_type": "Group"
+  }
+]
