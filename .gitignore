@@ -4,3 +4,13 @@ __pycache__/
 *.pyo
 paltalk_probe.json
 .env
+
+# probe generated artifacts
+all_*_log.json
+all_controls_dump.json
+*_children_log.json
+chat_messages*.txt
+chatter_list.txt
+mic_queue.txt
+*_debug.json
+probe_A_*.md
